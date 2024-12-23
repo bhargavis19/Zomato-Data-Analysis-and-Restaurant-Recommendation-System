@@ -56,12 +56,6 @@ This project aims to:
 - What are the differences between established restaurant chains and new players?
 - Can neighborhoods with similar food trends be identified and compared?
 
-## Sections of the Project
--  **Exploratory Data Analysis (EDA)**
--  **Data Visualization**
--  **Predicting Restaurant Ratings**
--  **Sentiment Analysis of Reviews**
--  **Building a Recommendation System**
 
 ## Inspiration
 Bengaluru's dynamic restaurant industry raises numerous questions for enthusiasts and entrepreneurs alike. How do restaurants sustain themselves amidst intense competition? What role does location, theme, or cuisine play in their success? How do neighborhoods influence food trends, and which types of restaurants thrive in specific areas? This project aims to answer these questions, offering actionable insights backed by data.
