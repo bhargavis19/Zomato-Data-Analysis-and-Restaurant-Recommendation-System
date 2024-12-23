@@ -66,6 +66,5 @@ This project aims to:
 ## Inspiration
 Bengaluru's dynamic restaurant industry raises numerous questions for enthusiasts and entrepreneurs alike. How do restaurants sustain themselves amidst intense competition? What role does location, theme, or cuisine play in their success? How do neighborhoods influence food trends, and which types of restaurants thrive in specific areas? This project aims to answer these questions, offering actionable insights backed by data.
 
-Whether you're a foodie planning your next meal or an entrepreneur looking to open a new restaurant, this analysis provides valuable information to enhance your dining or business experience.
+[Download the dataset here](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants).
 
-[Download the dataset here](#https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants).
